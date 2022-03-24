@@ -312,7 +312,7 @@
         ]
     },
     {
-        "num": "13",
+        "num": "",
         "train": "KTX",
         "route": "경부고속선 KTX",
         "day": ["MON", "TUE", "WED", "THU", "FRI"],
@@ -343,7 +343,7 @@
         ]
     },
     {
-        "num": "12",
+        "num": "",
         "train": "KTX",
         "route": "경부고속선 KTX",
         "day": ["MON", "TUE", "WED", "THU", "FRI"],
