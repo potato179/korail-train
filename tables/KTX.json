@@ -1028,7 +1028,7 @@
         ]
     },
     {
-        "num": "18",
+        "num": "42",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
         "day": ["MON", "TUE", "WED", "THU", "FRI"],
