@@ -3,7 +3,7 @@
         "num": "1",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "05:15", "출발"],
             ["용산", "", "05:18", "통과"],
@@ -27,7 +27,7 @@
         "num": "2",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "05:10", "출발"],
             ["울산", "05:31", "05:33", "정차"],
@@ -51,7 +51,7 @@
         "num": "3",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "05:30", "출발"],
             ["용산", "", "05:33", "통과"],
@@ -75,7 +75,7 @@
         "num": "4",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "05:20", "출발"],
             ["울산", "", "05:38", "통과"],
@@ -99,7 +99,7 @@
         "num": "5",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "06:00", "출발"],
             ["용산", "", "06:03", "통과"],
@@ -123,7 +123,7 @@
         "num": "6",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "05:40", "출발"],
             ["울산", "06:01", "06:03", "정차"],
@@ -147,7 +147,7 @@
         "num": "7",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "06:13", "출발"],
             ["화전", "", "06:19", "통과"],
@@ -177,7 +177,7 @@
         "num": "8",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "06:10", "출발"],
             ["울산", "06:31", "06:33", "정차"],
@@ -201,7 +201,7 @@
         "num": "9",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "07:00", "출발"],
             ["용산", "", "07:03", "통과"],
@@ -225,7 +225,7 @@
         "num": "10",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "07:00", "출발"],
             ["울산", "07:21", "07:23", "정차"],
@@ -249,7 +249,7 @@
         "num": "11",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "07:08", "출발"],
             ["화전", "", "07:14", "통과"],
@@ -279,7 +279,7 @@
         "num": "12",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "07:30", "출발"],
             ["울산", "07:51", "07:53", "정차"],
@@ -303,7 +303,7 @@
         "num": "13",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "07:52", "정차"],
             ["용산", "", "07:55", "통과"],
@@ -327,7 +327,7 @@
         "num": "14",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "08:10", "출발"],
             ["울산", "08:31", "08:33", "정차"],
@@ -351,7 +351,7 @@
         "num": "15",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "08:00", "정차"],
             ["용산", "", "08:03", "통과"],
@@ -375,7 +375,7 @@
         "num": "16",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "08:40", "출발"],
             ["울산", "09:01", "09:03", "정차"],
@@ -405,7 +405,7 @@
         "num": "17",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "08:30", "출발"],
             ["화전", "", "08:36", "통과"],
@@ -435,7 +435,7 @@
         "num": "18",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "08:50", "출발"],
             ["울산", "09:11", "09:13", "정차"],
@@ -459,7 +459,7 @@
         "num": "19",
         "train": "KTX-산천",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "09:30", "출발"],
             ["용산", "", "09:33", "통과"],
@@ -483,7 +483,7 @@
         "num": "20",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "09:06", "출발"],
             ["울산", "09:27", "09:29", "정차"],
@@ -507,7 +507,7 @@
         "num": "21",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "10:00", "출발"],
             ["용산", "", "10:03", "통과"],
@@ -531,7 +531,7 @@
         "num": "22",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "09:27", "출발"],
             ["울산", "", "09:45", "통과"],
@@ -557,7 +557,7 @@
         "num": "23",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "10:30", "출발"],
             ["용산", "", "10:33", "통과"],
@@ -581,7 +581,7 @@
         "num": "24",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "10:03", "출발"],
             ["울산", "", "10:21", "통과"],
@@ -605,7 +605,7 @@
         "num": "25",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "11:00", "출발"],
             ["용산", "", "11:03", "통과"],
@@ -629,7 +629,7 @@
         "num": "26",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "10:20", "출발"],
             ["울산", "10:41", "10:43", "정차"],
@@ -653,7 +653,7 @@
         "num": "27",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "12:00", "출발"],
             ["용산", "", "12:03", "통과"],
@@ -677,7 +677,7 @@
         "num": "28",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "11:00", "출발"],
             ["울산", "11:21", "11:23", "정차"],
@@ -701,7 +701,7 @@
         "num": "29",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "12:27", "출발"],
             ["용산", "", "12:30", "통과"],
@@ -725,7 +725,7 @@
         "num": "30",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "12:00", "출발"],
             ["울산", "12:21", "12:23", "정차"],
@@ -749,7 +749,7 @@
         "num": "31",
         "train": "KTX-산천",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "13:00", "출발"],
             ["용산", "", "13:03", "통과"],
@@ -773,7 +773,7 @@
         "num": "32",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "12:30", "출발"],
             ["울산", "12:51", "12:53", "정차"],
@@ -797,7 +797,7 @@
         "num": "33",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "13:20", "출발"],
             ["용산", "", "13:23", "통과"],
@@ -821,7 +821,7 @@
         "num": "34",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "13:10", "출발"],
             ["울산", "13:31", "13:33", "정차"],
@@ -845,7 +845,7 @@
         "num": "35",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "14:00", "출발"],
             ["용산", "", "14:03", "통과"],
@@ -869,7 +869,7 @@
         "num": "36",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "14:00", "출발"],
             ["울산", "14:21", "14:23", "정차"],
@@ -899,7 +899,7 @@
         "num": "37",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "14:21", "출발"],
             ["용산", "", "14:24", "통과"],
@@ -923,7 +923,7 @@
         "num": "38",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "14:20", "출발"],
             ["울산", "", "14:38", "통과"],
@@ -947,7 +947,7 @@
         "num": "39",
         "train": "KTX-산천",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "14:30", "출발"],
             ["용산", "", "14:33", "통과"],
@@ -971,7 +971,7 @@
         "num": "40",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "14:30", "출발"],
             ["울산", "14:52", "14:53", "정차"],
@@ -1001,7 +1001,7 @@
         "num": "41",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "14:38", "출발"],
             ["화전", "", "14:44", "통과"],
@@ -1031,7 +1031,7 @@
         "num": "42",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "15:01", "출발"],
             ["울산", "", "15:19", "통과"],
@@ -1057,7 +1057,7 @@
         "num": "43",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "15:40", "출발"],
             ["용산", "", "15:43", "통과"],
@@ -1081,7 +1081,7 @@
         "num": "44",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "15:45", "출발"],
             ["울산", "16:06", "16:08", "정차"],
@@ -1105,7 +1105,7 @@
         "num": "45",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "16:00", "출발"],
             ["용산", "", "16:03", "통과"],
@@ -1131,7 +1131,7 @@
         "num": "46",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "16:23", "출발"],
             ["울산", "", "16:41", "통과"],
@@ -1155,7 +1155,7 @@
         "num": "47",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "16:30", "출발"],
             ["용산", "", "16:33", "통과"],
@@ -1179,7 +1179,7 @@
         "num": "48",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "16:50", "출발"],
             ["울산", "17:11", "17:13", "정차"],
@@ -1203,7 +1203,7 @@
         "num": "49",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "17:00", "출발"],
             ["용산", "", "17:03", "통과"],
@@ -1227,7 +1227,7 @@
         "num": "50",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "17:00", "출발"],
             ["울산", "17:21", "17:23", "정차"],
@@ -1251,7 +1251,7 @@
         "num": "51",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "17:25", "출발"],
             ["용산", "", "17:28", "통과"],
@@ -1275,7 +1275,7 @@
         "num": "52",
         "train": "KTX-산천",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "17:17", "출발"],
             ["울산", "17:38", "17:40", "정차"],
@@ -1305,7 +1305,7 @@
         "num": "53",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "18:00", "출발"],
             ["용산", "", "18:03", "통과"],
@@ -1329,7 +1329,7 @@
         "num": "54",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "18:00", "출발"],
             ["울산", "18:21", "18:23", "정차"],
@@ -1353,7 +1353,7 @@
         "num": "55",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "18:15", "출발"],
             ["용산", "", "18:18", "통과"],
@@ -1377,7 +1377,7 @@
         "num": "56",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "18:35", "출발"],
             ["울산", "18:56", "18:58", "정차"],
@@ -1401,7 +1401,7 @@
         "num": "57",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "18:08", "출발"],
             ["화전", "", "18:14", "통과"],
@@ -1431,7 +1431,7 @@
         "num": "58",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "19:05", "출발"],
             ["울산", "19:26", "19:28", "정차"],
@@ -1461,7 +1461,7 @@
         "num": "59",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "19:00", "출발"],
             ["용산", "", "19:03", "통과"],
@@ -1485,7 +1485,7 @@
         "num": "60",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "19:12", "출발"],
             ["울산", "19:33", "19:35", "정차"],
@@ -1511,7 +1511,7 @@
         "num": "61",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "19:37", "출발"],
             ["용산", "", "19:40", "통과"],
@@ -1535,7 +1535,7 @@
         "num": "62",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "20:05", "출발"],
             ["울산", "20:26", "20:28", "정차"],
@@ -1559,7 +1559,7 @@
         "num": "63",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["행신", "", "19:38", "출발"],
             ["화전", "", "19:44", "통과"],
@@ -1589,7 +1589,7 @@
         "num": "64",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "20:40", "출발"],
             ["울산", "21:01", "21:03", "정차"],
@@ -1613,7 +1613,7 @@
         "num": "65",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "20:30", "출발"],
             ["용산", "", "20:33", "통과"],
@@ -1639,7 +1639,7 @@
         "num": "66",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "21:00", "출발"],
             ["울산", "21:21", "21:23", "정차"],
@@ -1669,7 +1669,7 @@
         "num": "67",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "21:00", "출발"],          
             ["용산", "", "21:03", "통과"],
@@ -1693,7 +1693,7 @@
         "num": "68",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "21:29", "출발"],
             ["울산", "21:50", "21:52", "정차"],
@@ -1717,7 +1717,7 @@
         "num": "69",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "21:30", "출발"],          
             ["용산", "", "21:33", "통과"],
@@ -1741,7 +1741,7 @@
         "num": "70",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "21:43", "출발"],
             ["울산", "22:04", "22:05", "정차"],
@@ -1765,7 +1765,7 @@
         "num": "71",
         "train": "KTX",
         "route": "경부선 KTX(서대구정차)",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "22:00", "출발"],          
             ["용산", "", "22:03", "통과"],
@@ -1791,7 +1791,7 @@
         "num": "72",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "22:00", "출발"],
             ["울산", "22:21", "22:23", "정차"],
@@ -1815,7 +1815,7 @@
         "num": "73",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["서울", "", "22:30", "출발"],          
             ["용산", "", "22:33", "통과"],
@@ -1839,7 +1839,7 @@
         "num": "74",
         "train": "KTX",
         "route": "경부고속선 KTX",
-        "day": ["MON", "TUE", "WED", "THU", "FRI"],
+        "day": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
         "table": [
             ["부산", "", "22:10", "출발"],
             ["울산", "", "22:28", "통과"],
