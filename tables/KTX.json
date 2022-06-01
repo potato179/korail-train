@@ -1885,7 +1885,7 @@
     },
     {
         "num": "81",
-        "train": "KTX",
+        "train": "KTX-산천",
         "route": "경부고속선 KTX",
         "day": ["FRI", "SAT", "SUN"],
         "table": [
